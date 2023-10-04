@@ -1,0 +1,31 @@
+
+Exo 2.1 : Convertir les nombres decimaux en nombres binaires 
+
+54 = 1101110
+
+255 = 11100001
+
+109 = 01101101
+______________________________________________________
+
+Exo 2.2 : Convertir les nombres binaires en decimal
+
+101 = 5 
+
+01100011 = 99
+
+11111110 = 254
+______________________________________________________
+
+Exo 2.3 : Convertir les nombres hexa en decimal signé 
+
+0x7E = 126
+
+0x81 = 129
+
+0xFE = 254
+
+
+
+
+
